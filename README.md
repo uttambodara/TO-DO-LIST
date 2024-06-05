@@ -8,4 +8,4 @@ What is an example of a to-do list?
 
 List all of the tasks that you need to accomplish. These can range from “Shower” to “Finish presentation for work next week” to “Find a present for Mom's birthday next month.” As you can see, these tasks range in their nature, their importance, and the time they will take.
 
-https://tenor.com/view/thank-you-for-watching-gif-23987153
+<div class="tenor-gif-embed" data-postid="15444213" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-thank-you-for-watching-any-questions-gif-15444213">Hi Thank You For Watching GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
