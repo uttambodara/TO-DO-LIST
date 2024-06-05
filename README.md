@@ -8,4 +8,4 @@ What is an example of a to-do list?
 
 List all of the tasks that you need to accomplish. These can range from “Shower” to “Finish presentation for work next week” to “Find a present for Mom's birthday next month.” As you can see, these tasks range in their nature, their importance, and the time they will take.
 
-![Uploading hi-thank-you-for-watching.gif…]()
+![hi-thank-you-for-watching](https://github.com/uttambodara/TO-DO-LIST/assets/129719033/c30972ba-6bd0-4286-8c11-278745677800)
